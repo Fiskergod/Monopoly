@@ -4,13 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="396a31c7-4c07-47c2-8710-7363ba8d7bf5" name="Default Changelist" comment="" />
+    <list default="true" id="396a31c7-4c07-47c2-8710-7363ba8d7bf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cells/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cells/ShopCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cells/TaxiCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/players/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/players/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shops/BotShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shops/HumanShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/players/Bot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cell/Cell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cell/EmptyCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cells/EmptyCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cell/PenaltyCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cells/PenaltyCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cell/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cell/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MonopolyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utils.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2137OqfI0BFLd8JlbnLPH0kRf99" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,8 +70,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LocalDate/src/main/java/localDateTime/LocDateTime.java" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Test" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Monopoly" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,5 +103,17 @@
       <updated>1637157888192</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
